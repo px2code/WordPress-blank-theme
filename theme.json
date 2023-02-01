@@ -217,10 +217,12 @@
       "link": {
         "border": {},
         "color": {
-          "text": "#1890ff"
+          "text": "unset"
         },
         "spacing": {},
-        "typography": {}
+        "typography": {
+          "textDecoration": "unset"
+        }
       }
     },
     "spacing": {
