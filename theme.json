@@ -182,21 +182,6 @@
           "fontSize": "var(--wp--preset--font-size--medium)"
         }
       },
-      "core/post-title": {
-        "typography": {
-          "fontFamily": "var(--wp--preset--font-family--source-serif-pro)",
-          "fontWeight": "300",
-          "lineHeight": "var(--wp--custom--typography--line-height--tiny)",
-          "fontSize": "var(--wp--custom--typography--font-size--gigantic)"
-        }
-      },
-      "core/post-comments": {
-        "spacing": {
-          "padding": {
-            "top": "var(--wp--custom--spacing--small)"
-          }
-        }
-      },
       "core/pullquote": {
         "border": {
           "width": "1px 0"
